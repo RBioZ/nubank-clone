@@ -1,7 +1,7 @@
 # Nubank Clone
 
 
-![screenshot](./src/assets/screenshot.jpg)
+![screenshot](https://github.com/RBioZ/nubank-clone/blob/master/src/assets/screeshot.jpg)
 
 run this to install
 ```

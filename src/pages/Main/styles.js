@@ -1,20 +1,21 @@
 import styled from 'styled-components/native';
 import {getStatusBarHeight} from 'react-native-iphone-x-helper'
+import {Animated} from 'react-native';
 
 export const Container = styled.View`
   flex: 1;
   background: #8B10AE;
-	padding-top: ${getStatusBarHeight}px;
-	justify-content: center;
+  padding-top: ${getStatusBarHeight}px;
+  justify-content: center;
 `;
 
 export const Content = styled.View`
 	flex: 1;
-	max-height: 400px;
+	max-height: 380px;
 	z-index: 5;
 `;
 
-export const Card = styled.View`
+export const Card = styled(Animated.View)`
 	flex:1;
 	background: #FFF;
 	border-radius: 4px;
@@ -47,7 +48,7 @@ export const Title = styled.Text`
 export const Description = styled.Text`
 	font-size: 32px;
 	margin-top: 3px;
-	color: #333;
+	color: #666;
 `;
 
 export const CardFooter = styled.View`

@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Nubank" title="#Nubank" src=".github/logo.png" width="250px" />
+    <img alt="Nubank" title="#Nubank" src="https://logodownload.org/wp-content/uploads/2019/08/nubank-logo-0.png" width="250px" />
 </h1>
  <p align="center">Clone da Interface do Nubank</p>
 <p align="center">

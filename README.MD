@@ -14,7 +14,7 @@
 ## 📱 Telas do projeto
 
 <p align="center">
-  <img alt="Home" src=".github/src/assets/screeshot.jpg" width="30%">
+  <img alt="Home" src="https://github.com/RBioZ/nubank-clone/edit/master/src/assets/screeshot.jpg" width="30%">
 </p>
 
 ## 🚀 Tecnologias
